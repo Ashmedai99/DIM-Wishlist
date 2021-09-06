@@ -5,15 +5,22 @@
 dimwishlist:item=1076810832&perks=839105230,3142289711,1570042021,3425386926,150943607#notes:Godroll for PVP, rec mod- Counterbalance Stock. [Ashmedai]
 
 //-Judgment-
-//Tactical Mag, Demo, Explosive, Reload MW
-dimwishlist:item=1476654960&perks=1926090094,106909392,3523296417,1954620775,4283235143#notes:Godroll for High-end PVE [Ashmedai]
-dimwishlist:item=1476654960&perks=1926090095,106909392,3523296417,1954620775,4283235143#notes:Godroll for High-end PVE [Ashmedai]
-//Tactical Mag, Demo, Multikill-clip, Reload MW
-dimwishlist:item=1476654960&perks=1926090094,106909392,3523296417,2458213969,4283235143#notes:Godroll for Low/Mid-end PVE [Ashmedai]
-dimwishlist:item=1476654960&perks=1926090095,106909392,3523296417,2458213969,4283235143#notes:Godroll for Low/Mid-end PVE [Ashmedai]
-//Tactical Mag, Demo, Adrenaline Junkie, Reload MW
-dimwishlist:item=1476654960&perks=1926090094,106909392,3523296417,11612903,4283235143#notes:Experimental roll, worth to save [Ashmedai]
-dimwishlist:item=1476654960&perks=1926090095,106909392,3523296417,11612903,4283235143#notes:Experimental roll, worth to save [Ashmedai]
+//Tactical Mag, Demo, Timed Payload
+dimwishlist:item=1476654960&perks=106909392,3523296417,1954620775#notes:Godroll for High-end PVE, recommeded MW: reload speed. [Ashmedai]
+dimwishlist:item=1476654960&perks=1926090094,106909392,3523296417,1954620775#notes:Godroll for High-end PVE, recommeded MW: reload speed. [Ashmedai]
+dimwishlist:item=1476654960&perks=1926090095,106909392,3523296417,1954620775#notes:Godroll for High-end PVE, recommeded MW: reload speed. [Ashmedai]
+//Tactical Mag, Demo, Multikill-clip
+dimwishlist:item=1476654960&perks=106909392,3523296417,2458213969#notes:Godroll for Low/Mid-end PVE, recommeded MW: reload speed. [Ashmedai]
+dimwishlist:item=1476654960&perks=1926090094,106909392,3523296417,2458213969#notes:Godroll for Low/Mid-end PVE, recommeded MW: reload speed. [Ashmedai]
+dimwishlist:item=1476654960&perks=1926090095,106909392,3523296417,2458213969#notes:Godroll for Low/Mid-end PVE, recommeded MW: reload speed. [Ashmedai]
+//Tactical Mag, Demo, Adrenaline Junkie
+dimwishlist:item=1476654960&perks=106909392,3523296417,11612903#notes:Experimental roll, worth to save, recommeded MW: reload speed. [Ashmedai]
+dimwishlist:item=1476654960&perks=1926090094,106909392,3523296417,11612903#notes:Experimental roll, worth to save, recommeded MW: reload speed. [Ashmedai]
+dimwishlist:item=1476654960&perks=1926090095,106909392,3523296417,11612903#notes:Experimental roll, worth to save, recommeded MW: reload speed. [Ashmedai]
+//Accurized Rounds, Encore, Timed Payload
+dimwishlist:item=1476654960&perks=3142289711,1195158366,1954620775#notes:Godroll for PVP, Encore: grants 10 range/precision kill and increases cone accuracy & stability on body kill (must have at least 1 stack), lasts 7s and refreshs upon killing. timed payload extends the range, grants aoe on hit, and has superb flinch but requires time to get used to. recommended MW: Range. [Ashmedai]
+dimwishlist:item=1476654960&perks=1926090094,3142289711,1195158366,1954620775#notes:Godroll for PVP, Encore: grants 10 range/precision kill and increases cone accuracy & stability on body kill (must have at least 1 stack), lasts 7s and refreshs upon killing. timed payload extends the range, grants aoe on hit, and has superb flinch but requires time to get used to. recommended MW: Range. [Ashmedai]
+dimwishlist:item=1476654960&perks=1926090095,3142289711,1195158366,1954620775#notes:Godroll for PVP, Encore: grants 10 range/precision kill and increases cone accuracy & stability on body kill (must have at least 1 stack), lasts 7s and refreshs upon killing. timed payload extends the range, grants aoe on hit, and has superb flinch but requires time to get used to. recommended MW: Range. [Ashmedai]
 
 //-The Long Walk-
 //Appended Mag/Shield Piercing Rounds, Overflow, Firing Line
