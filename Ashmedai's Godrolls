@@ -129,3 +129,35 @@ dimwishlist:item=1622998472&perks=1482024992,1087426260,1168162263,124408337#not
 //Hammer-Forger-Rifling/Smallbore, Tactical Mag, Encore, Headstone
 dimwishlist:item=1622998472&perks=3250034553,106909392,1195158366,124408337#notes:S+ Role, Encore+Headstone have a perfect synergy since both proc on precision kills, great roll for Stasis builds (stasis fragments & stasis wells). Recommended MW- Reload. [Ashmedai]
 dimwishlist:item=1622998472&perks=1482024992,106909392,1195158366,124408337#notes:S Role, Encore+Headstone have a perfect synergy since both proc on precision kills, great roll for Stasis builds (stasis fragments & stasis wells). Recommended MW- Reload. [Ashmedai]
+
+//-Xenoclast IV-
+//Assault Mag, Graverobber, Swashbuckler
+dimwishlist:item=2891672170&perks=791862061,1631667848,4082225868#notes:S+ Role for Stasis Hunters' melee builds
+//Appended Mag, Graverobber, Swashbuckler
+dimwishlist:item=2891672170&perks=1087426260,1631667848,4082225868#notes:S Role for Stasis Hunters' melee builds
+//Tactical Mag, Graverobber, Swashbuckler
+dimwishlist:item=2891672170&perks=106909392,1631667848,4082225868#notes:S Role for Stasis Hunters' melee builds
+//Graverobber, Swashbuckler
+dimwishlist:item=2891672170&perks=1631667848,4082225868#notes:S- Role for Stasis Hunters' melee builds
+
+//-Truthteller-
+//Spike Grenades, Graverobber, Swashbuckler
+dimwishlist:item=1946491241&perks=3301904089,1631667848,4082225868#notes:S+ Role for Stasis Hunters' melee builds
+//Blind Grenades, Graverobber, Swashbuckler
+dimwishlist:item=1946491241&perks=3032599245,1631667848,4082225868#notes:S+ Role for Stasis Hunters' melee builds
+
+//-Cartesian Coordinate-
+//Graverobber, Swashbuckler
+dimwishlist:item=2481881293&perks=1631667848,4082225868#notes:S+ Role for Stasis Hunters' melee builds
+
+//-Borrowed Time-
+//Ricochet Rounds, Graverobber, Swashbuckler
+dimwishlist:item=875848769&perks=1885400500,1631667848,4082225868#notes:S+ Role for Stasis Hunters' melee builds
+//Armor Piercing Rounds, Graverobber, Swashbuckler
+dimwishlist:item=875848769&perks=1968497646,1631667848,4082225868#notes:S+ Role for Stasis Hunters' melee builds
+//Graverobber, Swashbuckler
+dimwishlist:item=875848769&perks=1631667848,4082225868#notes:S Role for Stasis Hunters' melee builds
+
+//-Love and Death-
+//Spike Grenades, Graverobber, Swashbuckler
+dimwishlist:item=3690523502&perks=3301904089,1631667848,4082225868#notes:S+ Role for Stasis Hunters' melee builds
